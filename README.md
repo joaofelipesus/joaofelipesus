@@ -4,5 +4,5 @@
 
 
 - 🔭 Currently working on rails microsservices.
-- 🌱 Learning Elixir
+- 🌱 Learning Elixir and Machine Learning
 - 📫 Reach me on: joaofelipe1294@gmail.com
